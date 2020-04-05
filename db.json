@@ -1,0 +1,22 @@
+{
+ "products":[{"id":1,"name":"Phalarope, red-necked","category":"Puce"},
+{"id":2,"name":"Common waterbuck","category":"Aquamarine"},
+{"id":3,"name":"Gull, lava","category":"Turquoise"},
+{"id":4,"name":"Finch, common melba","category":"Khaki"},
+{"id":5,"name":"Owl, white-browed","category":"Red"},
+{"id":6,"name":"Kangaroo, red","category":"Goldenrod"},
+{"id":7,"name":"Little brown dove","category":"Red"},
+{"id":8,"name":"Leopard","category":"Goldenrod"},
+{"id":9,"name":"Nyala","category":"Maroon"},
+{"id":10,"name":"Coot, red-knobbed","category":"Maroon"},
+{"id":11,"name":"Turkey, australian brush","category":"Orange"},
+{"id":12,"name":"Anteater, australian spiny","category":"Maroon"},
+{"id":13,"name":"Goliath heron","category":"Violet"},
+{"id":14,"name":"Musk ox","category":"Yellow"},
+{"id":15,"name":"Bustard, kori","category":"Red"},
+{"id":16,"name":"Mexican boa","category":"Mauv"},
+{"id":17,"name":"Mara","category":"Mauv"},
+{"id":18,"name":"Arctic ground squirrel","category":"Orange"},
+{"id":19,"name":"Eurasian red squirrel","category":"Fuscia"},
+{"id":20,"name":"Stick insect","category":"Violet"}]
+}
